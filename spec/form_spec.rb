@@ -61,7 +61,7 @@ end
 #             visit 'https://www.facebook.com/'
     
 #             fill_in 'email', with: 'debe_nx_@hotmail.com'
-#             fill_in 'pass', with: '000000009'
+#             fill_in 'pass', with: ''
 #             click_button 'Entrar'
     
 #         end
